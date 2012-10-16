@@ -1,6 +1,6 @@
 class MainController < ApplicationController
   def index
-    #this is the index method
+    #this is the index method - lilly
   end
 
   def login
